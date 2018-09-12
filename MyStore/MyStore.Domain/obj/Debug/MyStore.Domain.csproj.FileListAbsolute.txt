@@ -1,0 +1,11 @@
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\bin\Debug\MyStore.Domain.dll
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\bin\Debug\MyStore.Domain.pdb
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\bin\Debug\DomainNotificationHelper.dll
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\bin\Debug\DomainNotificationHelper.Validation.dll
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\bin\Debug\MyStore.SharedKernel.dll
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\bin\Debug\MyStore.SharedKernel.pdb
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.csprojAssemblyReference.cache
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.csproj.CopyComplete
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.dll
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.pdb

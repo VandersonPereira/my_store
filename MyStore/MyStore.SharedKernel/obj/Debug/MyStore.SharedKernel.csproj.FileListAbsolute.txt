@@ -1,0 +1,8 @@
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.SharedKernel\bin\Debug\MyStore.SharedKernel.dll
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.SharedKernel\bin\Debug\MyStore.SharedKernel.pdb
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.csprojAssemblyReference.cache
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.Resources.EmailTemplates.resources
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.csproj.GenerateResource.cache
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.dll
+C:\Users\vando\source\repos\Arquitetura\01. Dominio\MyStore\MyStore.SharedKernel\obj\Debug\MyStore.SharedKernel.pdb
